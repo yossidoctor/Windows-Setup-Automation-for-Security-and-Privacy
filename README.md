@@ -1,0 +1,2 @@
+# Windows-Setup-Automation
+This repository contains scripts and tools to automate the process of setting up and configuring a fresh install of Windows while hardening and debloating it to improve security and privacy.

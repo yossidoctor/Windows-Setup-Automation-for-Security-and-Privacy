@@ -1,0 +1,24 @@
+CCleaner*
+Consolidator
+Device
+Device User
+DmClient
+DmClientOnScenarioDownload
+Firefox*
+Google*
+Microsoft Compatibility Appraiser
+MicrosoftEdge*
+Office*
+OneDrive*
+PcaPatchDbTask
+Proxy
+QueueReporting
+ReconcileFeatures
+RefreshCache
+SpeechModelDownloadTask
+Sqm-Tasks
+UsageDataFlushing
+UsageDataReporting
+Usbceip
+WakeUpAndContinueUpdates
+WakeUpAndScanForUpdates
