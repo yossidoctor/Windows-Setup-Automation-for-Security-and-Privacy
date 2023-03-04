@@ -1,0 +1,86 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 admx.help
+127.0.0.1 amazon.com
+127.0.0.1 colonist.io
+127.0.0.1 facebook.com
+127.0.0.1 imgur.com
+127.0.0.1 instagram.com
+127.0.0.1 linkedin.com
+127.0.0.1 learn.microsoft.com
+127.0.0.1 reddit.com
+127.0.0.1 snapchat.com
+127.0.0.1 speedapp.io
+127.0.0.1 twitter.com
+127.0.0.1 ynet.co.il
+127.0.0.1 maariv.co.il
+127.0.0.1 walla.co.il
+127.0.0.1 haaretz.co.il
+127.0.0.1 n12.co.il
+127.0.0.1 israelhayom.co.il
+127.0.0.1 newsnow.co.il
+127.0.0.1 news.google.com
+127.0.0.1 inn.co.il
+127.0.0.1 13tv.co.il
+127.0.0.1 now14.co.il
+127.0.0.1 themarker.com
+127.0.0.1 mako.co.il
+127.0.0.1 makorrishon.co.il
+127.0.0.1 globes.co.il
+127.0.0.1 srugim.co.il
+127.0.0.1 github.co.il
+127.0.0.1 kan.org.il
+
+
+127.0.0.1 www.amazon.com
+127.0.0.1 www.colonist.io
+127.0.0.1 www.facebook.com
+127.0.0.1 www.imgur.com
+127.0.0.1 www.instagram.com
+127.0.0.1 www.linkedin.com
+127.0.0.1 www.reddit.com
+127.0.0.1 www.snapchat.com
+127.0.0.1 www.speedapp.io
+127.0.0.1 www.twitter.com
+127.0.0.1 www.ynet.co.il
+127.0.0.1 www.maariv.co.il
+127.0.0.1 www.walla.co.il
+127.0.0.1 www.haaretz.co.il
+127.0.0.1 www.n12.co.il
+127.0.0.1 www.israelhayom.co.il
+127.0.0.1 www.newsnow.co.il
+127.0.0.1 www.news.google.com
+127.0.0.1 www.inn.co.il
+127.0.0.1 www.13tv.co.il
+127.0.0.1 www.now14.co.il
+127.0.0.1 www.themarker.com
+127.0.0.1 www.mako.co.il
+127.0.0.1 www.makorrishon.co.il
+127.0.0.1 www.globes.co.il
+127.0.0.1 www.srugim.co.il
+127.0.0.1 www.github.co.il
+127.0.0.1 www.kan.org.il
+127.0.0.1 news.google.com
+
+
+
